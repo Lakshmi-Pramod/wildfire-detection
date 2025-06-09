@@ -1,6 +1,6 @@
-train: dataset/CVSubset/FLAME/yolo_dataset/images/train
-val: dataset/CVSubset/FLAME/yolo_dataset/images/val
-test: dataset/CVSubset/FLAME/yolo_dataset/images/test
+train: /home/lakshmi/collage/project/vssc/wildfire-detection/dataset/CVSubset/FLAME/yolo_dataset/images/train
+val: /home/lakshmi/collage/project/vssc/wildfire-detection/dataset/CVSubset/FLAME/yolo_dataset/images/val
+test: /home/lakshmi/collage/project/vssc/wildfire-detection/dataset/CVSubset/FLAME/yolo_dataset/images/test
 
 nc: 2
-names: ['fire','no_fire']
+names: ['fire', 'no_fire']
